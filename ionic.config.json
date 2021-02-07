@@ -1,0 +1,7 @@
+{
+  "name": "ion68",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
