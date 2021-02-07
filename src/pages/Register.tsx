@@ -2,7 +2,7 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/rea
 //import ExploreContainer from '../components/ExploreContainer';
 //import './Home.css';
 
-const Home: React.FC = () => {
+const Register: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
@@ -11,10 +11,10 @@ const Home: React.FC = () => {
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
-         Home Page
+      Register
       </IonContent>
     </IonPage>
   );
 };
 
-export default Home;
+export default Register;
